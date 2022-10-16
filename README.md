@@ -211,6 +211,8 @@ for (let i = 0; i < 3; i++) {
 ```
 ## continue
 - Skip the rest of the code in the statement body for that iteration of the loop
+- Works only on the loop it's in when used in nested loops
+- Doesn't work with labels or forEach
 
 
 Basic:
