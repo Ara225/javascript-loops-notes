@@ -1,16 +1,15 @@
 # Different types of loops
 Lots of different types of loops, for different purposes, more important to be aware of the different types and what they're good for than the exact syntax. Don't forget array methods like map, filter etc that are effectively very specific loops and can be very useful.
 
-[MDN Loops Deep Dive](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
-[Another GitHub with Demos](https://github.com/Asabeneh/JavaScript-Loops)
-[Using the JavaScript while… and do…while loops](http://thenewcode.com/1122/Using-the-JavaScript-while-and-dowhile-loops)
-[When to Use hasOwnProperty](https://stackoverflow.com/questions/32422867/when-do-i-need-to-use-hasownproperty)
+[MDN Loops Deep Dive](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)<br>
+[Another GitHub with Demos](https://github.com/Asabeneh/JavaScript-Loops)<br>
+[Using the JavaScript while… and do…while loops](http://thenewcode.com/1122/Using-the-JavaScript-while-and-dowhile-loops)<br>
+[When to Use hasOwnProperty](https://stackoverflow.com/questions/32422867/when-do-i-need-to-use-hasownproperty)<br>
 
 # for 
 - Can do practically everything other more specialized loops can, but best used when you know how many iterations you need
 - Common type of loop similar to that in C and Java. 
 - Allows you to provide your own code for initializing, checking and changing the value 
-
 
 
 Simple:
